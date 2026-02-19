@@ -14,26 +14,3 @@ img{
     float: left;
     margin-right: 10px;
 }
-.left-column{
-    float:left;
-    width: 300px;
-    padding: 10px;
-}
-.middle-column{
-    margin-right: 300px;
-    margin-left: 300px;
-    padding: 10px;
-}
-.right-column{
-    float: right;
-    width: 300px;
-    padding: 10px;
-}
-#nav ul{
-    list-style-type: none;
-}
-#nav li{
-    display: inline;
-    margin-left: 60px;
-    margin-right: 60px;
-}
